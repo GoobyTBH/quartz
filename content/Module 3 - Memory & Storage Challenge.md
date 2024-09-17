@@ -99,6 +99,8 @@ This computer (for this game) represents the cutting-edge. It's got 4000 MHz DDR
 ---
 ## ***MEMORY AND STORAGE RESEARCH:***
 
+fart
+
 Sources:
 [Medium](https://medium.com/@reliancesolutions/history-of-ram-from-early-days-to-modern-high-performance-modules-e0debe106949)
 [Computer History Museum](https://www.computerhistory.org/timeline/memory-storage/)
